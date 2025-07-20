@@ -1,9 +1,9 @@
-# ACHA_SparsityAnalysis
+# Boostlets_SparsityAnalysis
 
 **1. INTRODUCTION**
 
 This code can be used to reproduce the sparsity analysis in the paper:
-  E. Zea, M. Laudato, J. Andén, "A continuous boostlet transform for acoustic waves in space-time", arXiv:2403.11362, DOI: [10.48550/arXiv.2403.11362](https://doi.org/10.48550/arXiv.2403.11362), 2024. 
+  E. Zea, M. Laudato, J. Andén, "A boostlet transform for wave-based acoustic signal processing in space--time", arXiv:2403.11362, DOI: [10.48550/arXiv.2403.11362](https://doi.org/10.48550/arXiv.2403.11362), 2025. 
 
 **2. INSTALLATION**
 
@@ -15,7 +15,7 @@ OBS: The user must have the Wavelet Toolbox installed in Matlab.
 
   To reproduce the sparsity analysis in Figure 6 of the manuscript, run the command: 
 
-      > ACHA_SparsityAnalysis;
+      > Boostlets_SparsityAnalysis;
 
   The output produces a figure (Figure 1) corresponding to Figure 6 in the paper. 
   A table including the l1-norm of the 20.0000 largest coefficients, corresponding 
@@ -23,11 +23,11 @@ OBS: The user must have the Wavelet Toolbox installed in Matlab.
 
 This is the output of Figure 6:
 
-![Figure 6](https://github.com/eliaszea/ACHA_SparsityAnalysis/blob/main/Fig6.jpg)
+![Figure 6](https://github.com/eliaszea/Boostlets_SparsityAnalysis/blob/main/Fig6.jpg)
 
 This is what the Table looks like in the Command Window: 
 
-![Table 1](https://github.com/eliaszea/ACHA_SparsityAnalysis/blob/main/Table1.jpg)
+![Table 1](https://github.com/eliaszea/Boostlets_SparsityAnalysis/blob/main/Table1.jpg)
 
 **4. DEPENDENCIES**
 
@@ -44,6 +44,7 @@ Folders:
 **5. RELEASE HISTORY**
 
 	Release #1	 Version 001 	E. Zea	2024-03-13
+ 	Release #2	 Version 002    E. Zea  2025-07-20 	Renamed repo
 
 **6. FEEDBACK & CONTACT INFORMATION**
 
