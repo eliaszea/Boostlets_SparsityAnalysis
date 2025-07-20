@@ -1,13 +1,13 @@
-%ACHA_SPARSITYANALYSIS Code to reproduce sparsity analysis
+%BOOSTLETS_SPARSITYANALYSIS Code to reproduce sparsity analysis
 % -----------------------------------------------------------------------------------
 %       This code can be used to reproduce the sparsity analysis in the paper:
-%   E. Zea, M. Laudato, J. Andén, "A continuous boostlet transform for acoustic waves 
-%   in space-time", arXiv:2403.11362, March 2024. 
+%   E. Zea, M. Laudato, J. Andén, "A boostlet transform for wave-based acoustic signal 
+%   processing in space--time", arXiv:2403.11362, DOI: 10.48550/arXiv.2403.11362, 2025.
 % -----------------------------------------------------------------------------------
 % EXAMPLE OF USAGE: 
 %   To reproduce the sparsity analysis in Figure 6 of the paper, run the command: 
 %
-%       > ACHA_SparsityAnalysis;
+%       > Boostlets_SparsityAnalysis;
 %
 %   The output produces a figure (Figure 1) corresponding to Figure 6 in the paper. 
 %   A table including the l1-norm of the 20.0000 largest coefficients, corresponding 
@@ -33,6 +33,7 @@
 % Code: E. Zea
 % Code history: 
 % - Version 001 [March 15, 2024]
+% - Version 002 [July 20, 2025]: Renamed repo
 % -----------------------------------------------------------------------------------
 % CONTACT: Elias Zea (zea@kth.se)
 %          Marcus Wallenberg Laboratory for Sound and Vibration Research
