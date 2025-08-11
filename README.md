@@ -3,7 +3,7 @@
 **1. INTRODUCTION**
 
 This code can be used to reproduce the sparsity analysis in the paper:
-  E. Zea, M. Laudato, J. Andén, "A boostlet transform for wave-based acoustic signal processing in space--time", arXiv:2403.11362, DOI: [10.48550/arXiv.2403.11362](https://doi.org/10.48550/arXiv.2403.11362), 2025. 
+  E. Zea, M. Laudato, J. Andén, "A boostlet transform for wave-based acoustic signal processing in space--time", arXiv:2403.11362v2, DOI: [10.48550/arXiv.2403.11362v2](https://doi.org/10.48550/arXiv.2403.11362v2), 2025. 
 
 **2. INSTALLATION**
 
