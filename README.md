@@ -24,7 +24,7 @@ OBS: The user must have the Wavelet Toolbox installed in Matlab.
 
 This is the output of Figure 7:
 
-![Figure 7](https://github.com/eliaszea/Boostlets_SparsityAnalysis/blob/main/Fig6.jpg)
+![Figure 7](https://github.com/eliaszea/Boostlets_SparsityAnalysis/blob/main/Figure7.jpg)
 
 This is what the Table looks like in the Command Window: 
 
