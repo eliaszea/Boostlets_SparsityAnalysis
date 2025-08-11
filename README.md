@@ -18,12 +18,13 @@ OBS: The user must have the Wavelet Toolbox installed in Matlab.
       > Boostlets_SparsityAnalysis;
 
   The output produces a figure (Figure 1) corresponding to Figure 6 in the paper. 
-  A table including the l1-norm of the 20.0000 largest coefficients, corresponding 
-  to Table I in the manuscript, is output in the Command Window. See below. 
+  The Command Window outputs a table including the l1-norm of the top 10.0000 
+  coefficients and the relative reconstruction error of the top 1.000 coefficients 
+  corresponding to Table I in the manuscript. See below. 
 
-This is the output of Figure 6:
+This is the output of Figure 7:
 
-![Figure 6](https://github.com/eliaszea/Boostlets_SparsityAnalysis/blob/main/Fig6.jpg)
+![Figure 7](https://github.com/eliaszea/Boostlets_SparsityAnalysis/blob/main/Fig6.jpg)
 
 This is what the Table looks like in the Command Window: 
 
