@@ -45,7 +45,7 @@ Folders:
 **5. RELEASE HISTORY**
 
 	Release #1	 Version 001 	E. Zea	2024-03-13
- 	Release #1	 Version 002    E. Zea  2025-07-20 	Renamed repo and included sparse reconstruction analysis
+ 	Release #1	 Version 002    E. Zea  2025-08-11 	Renamed repo and included sparse reconstruction analysis
 
 **6. FEEDBACK & CONTACT INFORMATION**
 
